@@ -1,0 +1,32 @@
+<scene formatVersion="1.0.1" export_time="1550047560.9583876" previous_export_time="0" exported_by="shun.fang" >
+  <nodes >
+    <node name="Box001" >
+      <position y="0.000000" x="-0.026711" z="0.016694" />
+      <rotation qy="0.000000" qz="0.000000" qx="0.000000" qw="1.000000" />
+      <scale y="0.010000" x="0.010000" z="0.010000" />
+      <user_data value="1" type="int" name="mr displacement use global settings" />
+      <user_data value="1" type="int" name="mr displacement view dependent" />
+      <user_data value="6" type="int" name="mr displacement method" />
+      <user_data value="1" type="int" name="mr displacement smoothing on" />
+      <user_data value="2.0" type="float" name="mr displacement edge length" />
+      <user_data value="20.0" type="float" name="mr displacement max displace" />
+      <user_data value="5" type="int" name="mr displacement parametric subdivision level" />
+      <user_data value="2" type="int" name="MaxHandle" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity inertia_tensor="0.4000000059604645" velocity_max="0.0" actor="False" lock_trans_z="False" lock_rot_x="False" name="Untitled" anisotropic_friction="False" meshFile="Untitled.mesh" lock_rot_y="False" damping_trans="0.03999999910593033" mass_radius="1.0" physics_type="STATIC" lock_trans_x="False" lock_trans_y="False" lock_rot_z="False" velocity_min="0.0" friction_x="1.0" mass="1.0" damping_rot="0.10000000149011612" friction_z="1.0" friction_y="1.0" ghost="False" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\shun.fang\AppData\Local\MagicVR.Temp\ExternalModel\green_default\color.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground g="0.05087608844041824" b="0.05087608844041824" r="0.05087608844041824" />
+    <colourDiffuse g="0.05087608844041824" b="0.05087608844041824" r="0.05087608844041824" />
+    <colourAmbient g="0.0" b="0.0" r="0.0" />
+  </environment>
+</scene>
